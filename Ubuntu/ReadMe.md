@@ -1,4 +1,4 @@
-How to conduct screenshot in Ubuntu like QQ in Windows?
+# How to conduct screenshot in Ubuntu like QQ in Windows?
 
     wget http://packages.linuxdeepin.com/deepin/pool/main/d/deepin-scrot/deepin-scrot_2.0-0deepin_all.deb 
   
@@ -11,3 +11,7 @@ Setting the shortcut for screenshot:
 Open System setting -> Keyboard -> custom Shortcuts, click "+", fill the command textbox with "deepin-scrot".
     
 Now you can enjoy your "screenshot travel"!
+
+
+# Commonly Used Applications about Paper Management
+    Zotero   JabRef   KBibTex   Bibfilex   Pybliographer   Referencer
