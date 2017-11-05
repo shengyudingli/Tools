@@ -15,3 +15,6 @@ Now you can enjoy your "screenshot travel"!
 
 # Commonly Used Applications about Paper Management
     Zotero   JabRef   KBibTex   Bibfilex   Pybliographer   Referencer
+
+# How to use conda create Python environment
+    https://zhuanlan.zhihu.com/p/22678445
