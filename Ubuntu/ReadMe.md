@@ -17,4 +17,4 @@ Now you can enjoy your "screenshot travel"!
     Zotero   JabRef   KBibTex   Bibfilex   Pybliographer   Referencer
 
 # How to use conda create Python environment
-    [zhihu](https://zhuanlan.zhihu.com/p/22678445)
+[zhihu](https://zhuanlan.zhihu.com/p/22678445)
